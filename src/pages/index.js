@@ -29,7 +29,7 @@ const IndexPage = () => {
 
                     <p>
                         Sponsor<b>Lock</b> is a browser extension that
-                        gives back that control, and makes sure that you
+                        gives them back your control, and makes sure that you
                         only watch what the original uploader wanted you
                         to watch.
                     </p>
