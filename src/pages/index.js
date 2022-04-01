@@ -44,7 +44,7 @@ const IndexPage = () => {
                             />
                         </a>
 
-                        <a href="/sponsorlock_give_back_control-4.2.1-an+fx.xpi">
+                        <a href="/sponsorlock_give_back_control-4.2.4-an+fx.xpi">
                             <img
                                 src="/AMO-button_1.png"
                                 alt="Download for Firefox"
