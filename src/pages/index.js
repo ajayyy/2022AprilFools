@@ -93,7 +93,7 @@ const IndexPage = () => {
                         Well, you already agreed to this you know? It's an implicit
                         contract. By watching the video, you agreed to watch the ad.
                         And by watching the ad, you agreed to follow through with 
-                        what was asked. If you truley didn't want to follow through with
+                        what was asked. If you truly didn't want to follow through with
                         that action, why would you have clicked on that video in the
                         first place? The people have mouths to feed remember, don't expect
                         to watch these videos for free without some sacrifices.
